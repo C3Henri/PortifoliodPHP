@@ -1,4 +1,4 @@
-# Portifolio-Programa-o-para-Internet
+# Portifolio Programção para Internet
 Adcionando as resoluções dos seguintes exercício 2, 3, 4.
 
 Resolução do Exercício 2 do Portifólio de Programação para Internet é solicitado que faça um sistema que mostre os numeros primos de 1 a 100.
